@@ -61,3 +61,5 @@ Please add more deals that you are aware of to this page. I'll approve PRs round
 
 ## Giving back
 If any of the links here helped you and you want to give back, please consider donating time or money to local organizations in your area that are fighting COVID-19 or its effects on society. Thank you!
+
+Disclaimer: No company listed here paid me to do this. Yet. Apparently, adding this line is important!

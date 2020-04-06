@@ -55,7 +55,15 @@ Please add more deals that you are aware of to this page. I'll approve PRs round
 |Audible   	|Free audiobooks for children at home   	|Worldwide   	|Audible is an Amazon-owned site with a large collection of audiobooks   	|Membership needs to be canceled if you don't want this to renew automatically   	|
 |[Barnes and Noble education](https://www.businesswire.com/news/home/20200317005224/en/Barnes-Noble-Education-COVID-19-Update/?feedref=JjAwJuNHiystnCoBq_hl-d2-_-DMJyMm3uYmtOy2XFwcvlLbwpKQTgkxGMXSeZO97dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSxJ0LM3ryl-yrNKrvMa0Wtg==)   	|Textbook access to students, along with free self-tutoring and writing services   	|   	|Barnes & Noble Education, Inc. (NYSE: BNED) is a solutions provider for the education industry   	|   	|
 |[Groupon](https://www.groupon.com/landing/commitment-to-you)   	|Vouchers extended up to 1-year   	|Wherever Groupon is available   	|"Groupon is an American global e-commerce marketplace connecting subscribers with local merchants by offering activities, travel, goods and services in 15 countries"   	|   	|
-
+|Allstate	|15% of premium given back	|USA	|Insurance company	|	|
+|UHAUL 	|College students get free storage for 30 days	|USA	|Moving, rental (for trucks and trails) and storage company	|Rental auto extends at end of 30 days	|
+|Shopify	|Extended free trials	|Worldwide	|	|	|
+|Adobe CC	|3-months free	|Worldwide	|	|No details on whether credit cards are required to get the offer	|
+|	|	|	|	|	|
+|	|	|	|	|	|
+|	|	|	|	|	|
+|	|	|	|	|	|
+|	|	|	|	|	|
 
 
 

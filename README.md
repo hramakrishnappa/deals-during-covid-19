@@ -59,9 +59,9 @@ Please add more deals that you are aware of to this page. I'll approve PRs round
 |UHAUL 	|College students get free storage for 30 days	|USA	|Moving, rental (for trucks and trails) and storage company	|Rental auto extends at end of 30 days	|
 |Shopify	|Extended free trials	|Worldwide	|	|	|
 |Adobe CC	|3-months free	|Worldwide	|	|No details on whether credit cards are required to get the offer	|
-|	|	|	|	|	|
-|	|	|	|	|	|
-|	|	|	|	|	|
+|[Hertz car rental](https://www.dansdeals.com/points-travel/car-rentalsride-share/hertz-free-rentals-cars-nyc-healthcare-workers/)	|Free to NYC healthcare workers	|NYC	|	|	|
+|[Four seasons hotel](https://www.dansdeals.com/points-travel/hotel-deals/four-seasons-nyc-will-give-free-rooms-nyc-healthcare-workers/)	|Free stay for NYC healthcare workers	|NYC	|	|	|
+|[Starbucks](https://www.dansdeals.com/more/free-stuff/starbucks-offering-free-coffee-covid-19-front-line-responders/)	|Free drink for front-line responders to COVID-19 situation	|USA	|	|	|
 |	|	|	|	|	|
 |	|	|	|	|	|
 
